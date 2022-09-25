@@ -1,0 +1,8 @@
+
+**/debug
+**/doc
+**/build
+**/dist
+**/.generated_files
+*.files
+*.html
