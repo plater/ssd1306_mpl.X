@@ -1,2 +1,12 @@
 /build/
 /dist/
+/debug/
+/doc/
+/.generated_files/
+**/debug
+**/doc
+**/build
+**/dist
+**/.generated_files
+*.files
+*.html
